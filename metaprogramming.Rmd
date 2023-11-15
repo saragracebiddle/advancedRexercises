@@ -1,0 +1,16 @@
+---
+title: "Metaprogramming"
+output: html_notebook
+---
+
+
+## Definitions
+
+* **metaprogramming:** code is data and can be inspected and modified programatically
+
+* **non-standard evaluation (NSE):** a property of the arguments of functions- must define what is standard first!
+
+* **tidy evaluation:** implemented by rlang, see [tidyeval](https://tidyeval.tidyverse.org/) for further information
+
+
+
